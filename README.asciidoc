@@ -1,4 +1,4 @@
-= Newsgr
+= NewsGr
 
 == Engineering Faculty Computer Engineering Department
 
