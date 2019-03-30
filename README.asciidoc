@@ -1,0 +1,88 @@
+= Newsgr
+
+== Engineering Faculty Computer Engineering Department
+
+_Gurkan Gokdemir <https://github.com/gurkangokdemir[gurkangokdemir@outlook.com]>_
+
+
+== Abstract
+
+image::game_screen.png[game_screen,200,200]
+
+_This is a project that contains server, client and db._
+
+_We used Visual Studio environment with C#. as Server with MSSQL as database.Also Android Studio envirionment with Java. _
+
+== Introduction
+
+
+
+== Information
+
+
+
+== Requirements
+
+*NewsGr*
+ works on Windows and requires one of the following implementations of 
+
+* Visual Studio 
+* Android Studio
+* Sql Server
+
+[CAUTION]
+====
+After the instaliation you can detect some bugs on the project. That project is the first version. 
+====
+
+== How to use
+
+
+[NOTE]
+====
+====
+ 
+== Contribution
+
+Here are some ways *you* can contribute:
+
+* by using prerelease (alpha, beta or preview) versions
+* by reporting bugs
+* by suggesting new features
+* by writing or editing documentation
+* by writing code with tests -- _No patch is too small._
+** fix typos
+** add comments
+** clean up inconsistent whitespace
+** write tests!
+* by refactoring code
+* by fixing
+* by reviewing patches
+
+The guide provides information on how to create, style, and submit issues, feature requests, code, and documentation to the *Puzzle*
+ Project.
+
+== Results
+
+But we can't do it without your feedback!
+We encourage you to ask questions and discuss any aspects of the project on the discussion list or on Twitter.
+
+Twitter:: https://twitter.com/guerkahn
+[@guerkahn] mention
+
+== License
+
+Copyright (C) 2014-2019 Gurkan Gokdemir and the individual contributors to NewsGr
+.
+Use of this software is granted under the terms of the MIT License.
+
+== Authors
+
+*NewsGr* is led by https://github.com/gurkangokdemir[Gurkan Gokdemir].
+The project was initiated in 2019 by https://github.com/gurkangokdemir[Gurkan Gokdemir].
+
+*NewsGr* was started by Kocaeli University Engineering Faculty Computer Engineering Department.
+
+ifndef::env-site[]
+== References
+
