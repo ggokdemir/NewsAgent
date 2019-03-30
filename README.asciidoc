@@ -7,7 +7,7 @@ _Gurkan Gokdemir <https://github.com/gurkangokdemir[gurkangokdemir@outlook.com]>
 
 == Abstract
 
-image::game_screen.png[game_screen,200,200]
+image::iamge.png[image,200,200]
 
 _This is a project that contains server, client and db._
 
