@@ -1,1 +1,44 @@
 
+@startuml
+package AndroidDevice <<Rectangle>> {
+  class Class2
+  Object <|-- Demo1
+  Demo1 *- Demo2
+}
+
+
+AndroidDevice --> AspNET : REST
+AndroidDevice <-- AspNET : REST
+
+package AspNET <<Cloud>> {
+  class Class5
+}
+
+AspNET -- MSSQL  
+
+package MSSQL <<Database>> {
+News "1" -- "1" NewsRate
+
+  class News{
+newsId:int
+newsImage:image
+newsTitle:string
+newsContent:string
+newsType:string
+newsDate:date
+}
+
+class NewsRate{
+newsId:int
+likes:int
+dislikes:int
+count:int
+}
+
+class User{
+userId:int
+userName:int
+userPass:int
+}
+}
+@enduml
