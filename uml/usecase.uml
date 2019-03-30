@@ -1,44 +1,74 @@
-
 @startuml
 package AndroidDevice <<Rectangle>> {
-  class Class2
-  Object <|-- Demo1
-  Demo1 *- Demo2
+
+
+  class MainLayout
+{
+showPopup()
+showContentWhenClickedToPopup()
 }
 
 
-AndroidDevice --> AspNET : REST
-AndroidDevice <-- AspNET : REST
-
-package AspNET <<Cloud>> {
-  class Class5
+  class LoginLayout
+{
+  goToMainLayout()
 }
 
-AspNET -- MSSQL  
 
-package MSSQL <<Database>> {
-News "1" -- "1" NewsRate
 
-  class News{
+  class NewsLayout
+{
+
+}
+}
+
+AndroidDevice --> AspNET : POST
+AndroidDevice <-- AspNET : GET
+AspNET -- MSSQL 
+
+
+
+package AspNET <<Cloud>> 
+{
+
+
+  class DbFilter
+{
+  filterByTopic()
+}
+
+class DbNewsRefresher
+{
+ showPopupWhenAdded()
+
+}
+}
+
+package MSSQL <<Database>> 
+{
+
+  class News
+{
 newsId:int
 newsImage:image
 newsTitle:string
 newsContent:string
-newsType:string
+newsTopic:string
 newsDate:date
 }
 
-class NewsRate{
+class NewsRate
+{
 newsId:int
 likes:int
 dislikes:int
 count:int
 }
 
-class User{
+class User
+{
 userId:int
 userName:int
 userPass:int
-}
 }
 @enduml
