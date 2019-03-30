@@ -11,7 +11,7 @@ image::game_screen.png[game_screen,200,200]
 
 _This is a project that contains server, client and db._
 
-_We used Visual Studio environment with C#. as Server with MSSQL as database.Also Android Studio envirionment with Java. _
+_We used Visual Studio environment with C#. as Server with MSSQL as database.Also Android Studio envirionment with Java._
 
 == Introduction
 
