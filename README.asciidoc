@@ -1,4 +1,4 @@
-= NewsGr
+= NewsAgent
 
 == Engineering Faculty Computer Engineering Department
 
