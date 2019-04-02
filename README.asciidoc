@@ -67,9 +67,6 @@ The guide provides information on how to create, style, and submit issues, featu
 But we can't do it without your feedback!
 We encourage you to ask questions and discuss any aspects of the project on the discussion list or on Twitter.
 
-Twitter:: https://twitter.com/guerkahn
-[@guerkahn] mention
-
 == License
 
 Copyright (C) 2014-2019 Gurkan Gokdemir and the individual contributors to NewsGr
