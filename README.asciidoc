@@ -23,7 +23,7 @@ _We used Visual Studio environment with C#. as Server with MSSQL as database.Als
 
 == Requirements
 
-*NewsGr*
+*NewsAgent*
  works on Windows and requires one of the following implementations of 
 
 * Visual Studio 
@@ -69,7 +69,7 @@ We encourage you to ask questions and discuss any aspects of the project on the 
 
 == License
 
-Copyright (C) 2014-2019 Gurkan Gokdemir and the individual contributors to NewsGr
+Copyright (C) 2019-2022 Gurkan Gokdemir and the individual contributors to NewsAgent
 .
 Use of this software is granted under the terms of the MIT License.
 
