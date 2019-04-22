@@ -75,10 +75,10 @@ Use of this software is granted under the terms of the MIT License.
 
 == Authors
 
-*NewsGr* is led by https://github.com/gurkangokdemir[Gurkan Gokdemir].
+*NewsAgent* is led by https://github.com/gurkangokdemir[Gurkan Gokdemir].
 The project was initiated in 2019 by https://github.com/gurkangokdemir[Gurkan Gokdemir].
 
-*NewsGr* was started by Kocaeli University Engineering Faculty Computer Engineering Department.
+*NewsAgent* was started by Kocaeli University Engineering Faculty Computer Engineering Department.
 
 ifndef::env-site[]
 == References
